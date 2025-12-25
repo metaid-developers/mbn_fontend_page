@@ -24,6 +24,7 @@ export interface BlockData {
   blockTxCount: {
     Bitcoin: BlockTxCount;
     MVC: BlockTxCount;
+    Doge:BlockTxCount
   };
 }
 
