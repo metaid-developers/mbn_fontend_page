@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "whatsMBN": "What's MBN",
+    "comparing": "Comparing",
+    "whyImportant": "Why Important",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "apiDoc": "API Doc"
+  },
+  "hero": {
+    "title": "What Is MetaBitcoin Network?",
+    "description": "MetaBitcoin Network is a BTC chain-centric network that dynamically links other Bitcoin-compatible chains, weaving them into a vast and infinitely scalable Bitcoin network. This network has the potential to fully address Bitcoin's scalability issues and to create a Bitcoin-based Web3 world for 8 billion people globally.",
+    "features": {
+      "0": "Based on Bitcoin's technical architecture and consensus mechanism, eliminating the need to invent new technologies.",
+      "1": "Capable of linking to mainstream UTXO chains without requiring extensive development or the creation of new chains.",
+      "2": "Dynamically infinitely scalable, able to accommodate the daily Web3 needs of people worldwide.",
+      "3": "Fully leverages the infrastructure of other Bitcoin sidechains, such as layer-1 smart contracts or layer-2 EVMs."
+    }
+  },
+  "comparing": {
+    "title1": "BTC Scalability",
+    "title2": " Boosts",
+    "description": "MetaID supercharges BTC's trading flow via novel tech and architecture. It streamlines storage-verification, slashing redundancies for a speed boost. With smart resource distribution, it equalizes high-traffic node loads, banishing jams and lags. Thus, BTC can juggle more trades, handling small and large sums with ease, broadening its application and fortifying its stability."
+  },
+  "comparison": {
+    "title": "Comparison with Other Bitcoin Scalability Solutions",
+    "table": {
+      "represent": "Represent",
+      "onChain": "On-chain Expansion Plan",
+      "offChain": "Off-chain Expansion Plan",
+      "fork": "Fork Expansion Plan",
+      "mbn": "MetaBitcoin Plan"
+    },
+    "row1": {
+      "scalability": "Scalability",
+      "low": "Low",
+      "high": "High",
+      "middle": "Middle"
+    },
+    "row2": {
+      "web3": "Suitable for building Web3",
+      "no": "No",
+      "yes": "Yes"
+    },
+    "row3": {
+      "difficulty": "Technical Difficulty",
+      "high": "High",
+      "middle": "Middle"
+    },
+    "row4": {
+      "security": "Security",
+      "high": "High",
+      "low": "Low"
+    },
+    "row5": {
+      "miners": "Friendly to Bitcoin miners",
+      "amicable": "Amicable",
+      "noAmicable": "No Amicable"
+    }
+  },
+  "why": {
+    "title": "Why It is Important for Bitcoin",
+    "point1": {
+      "title": "Capable of building a Web3 world on Bitcoin for 8 billion users",
+      "description": "Based on the trust of Bitcoin, leveraging its characteristics and potential to meet the needs of a large number of users and achieve Web3 functional innovations such as identity authentication and value exchange."
+    },
+    "point2": {
+      "title": "Bitcoin and Bitcoin-native assets can be transferred atomically to other sidechains",
+      "description": "Atomic transfer ensures the security and integrity of assets through cryptographic algorithms and smart contracts. It increases the flexibility of use, allowing the selection of a trading environment according to the characteristics of the side chain, such as a side chain with low fees, a side chain for industrial applications, etc. This promotes the development of the side chain ecosystem, brings value and liquidity, and attracts developers and users."
+    }
+  },
+  "how": {
+    "title": "How It Works",
+    "point1": {
+      "title": "Utilization of existing standard-compliant UTXO public chains",
+      "description": "Existing compliant UTXO public chains are the bedrock. Mature, stable, they slash costs & time. Nodes & power, ready-made. Their models, a springboard for complex apps."
+    },
+    "point2": {
+      "title": "A UTXO multi-chain asset bridge with wrapping and mapping functionalities",
+      "description": "The UTXO multi-chain asset bridge, with its Wrapping function, breaks the barriers between chains to package assets. The Mapping function establishes mappings to ensure the integrity of information and promote the smooth flow of assets."
+    },
+    "point3": {
+      "title": "Rolling up the mapping relationships of related assets from various Bitcoin-compatible chains to the main Bitcoin chain",
+      "description": "Rollup operation pools UTXO chains' asset mappings to BTC main chain, boosting efficiency, easing load, ensuring info reliability via BTC's authority, and augmenting network scalability and user trust."
+    },
+    "point4": {
+      "title": "Eligible MBN Sidechains",
+      "list": {
+        "0": "MVC (MicrovisionChain) and its replica chains",
+        "1": "FB (Fractal Bitcoin) and its replica chains",
+        "2": "BCH (Bitcoin Cash)",
+        "3": "BSV (Bitcoin SV)",
+        "4": "XEC (eCash)"
+      }
+    },
+    "point5": {
+      "title": "Conditions for MBN Sidechains",
+      "list": {
+        "0": "Must be a permissionless public chain.",
+        "1": "Must be Bitcoin-compatible, including the use of UTXO architecture and support for Legacy addresses.",
+        "2": "Utilizes the SHA256 mining algorithm, with an average hashing power of no less than 10 PH/s over a 30-day period."
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "0": {
+        "title": "Is MetaBitcoin Network a specific chain? Does it have a project token?",
+        "content": "MBN is NOT a specific chain or project; it is a practical solution for extending the Bitcoin network. It utilizes existing UTXO public chains and technologies, combined with suitable asset bridges and data rollup solutions, to create a Bitcoin-based Web3 solution. This approach not only aims to extend Bitcoin as digital gold but also serves as a Web3 network capable of accommodating the everyday needs of 8 billion users.\n\nIt does not have a specific project token and has not received VC funding; it is a permissionless, fully open solution designed for the future emergence of massive Web3 applications. It represents a vision and, from a technical perspective, may be the simplest and most elegant approach to building a Web3 scalability solution for Bitcoin."
+      },
+      "1": {
+        "title": "Why does MetaBitcoin Network connect UTXO public chains like MVC and BCH?",
+        "content": "MBN can be compatible with most of the mainstream UTXO public chains nowadays, including BCH, BSV, FB and MVC, etc. MBN has no preference for any UTXO public chains that meet the standards. MBN will link the mainstream UTXO public chains and their replica chains. Ultimately, which solution is used the most will be decided by the users, so different UTXO public chains connected to MBN will compete in terms of performance, fees, and smart contract capabilities to attract the most users.\n\nConnecting different types of UTXO public chains provides more possibilities for enriching Bitcoin assets. For example, after MBN connects to BCH, Bitcoin assets may be able to utilize the EVM layer on BCH to achieve more possibilities; after MBN connects to MVC, Bitcoin assets may be able to utilize the layer-one smart contract capabilities on MVC to achieve more complex financial and Web3 use cases."
+      },
+      "2": {
+        "title": "What's the relationship between MetaBitcoin Network and MetaID?",
+        "content": "MetaBitcoin is a Bitcoin expansion plan proposed by the MetaID protocol team. The MetaID protocol is a Web3 construction plan designed for Bitcoin. Based on the MetaID protocol, various Web3 applications can be developed in the Bitcoin ecosystem, such as on-chain Twitter, on-chain Facebook, on-chain Amazon, and on-chain TikTok. However, Bitcoin has not solved the scalability issue, resulting in extremely high fees and congestion, preventing these on-chain applications from being widely promoted. Therefore, the MetaID protocol team proposed a scalability solution for Bitcoin. The MetaID protocol team believes that the MetaID protocol + MBN solution can establish a permissionless, open Web3 world on Bitcoin that can accommodate massive daily use by users."
+      },
+      "3": {
+        "title": "What's the relationship between MetaBitcoin Network and FB?",
+        "content": "Some of the goals and visions of MBN and FB are the same. They both aim to expand Bitcoin and do so by connecting other chains with BTC as the core. However, there are three main differences:\n1. FB can only link the BCSP (Bitcoin Core Software Package) constructed by the replication program of Bitcoin Core nodes, while MBN is more open and can be compatible with all existing UTXO public chains that meet the conditions, including BCH, BSV, MVC, and even FB; MBN can include FB, but FB cannot include MBN; FB has a dedicated project token and a dedicated project team, while MBN has no tokens or funding. It is a combination solution that utilizes existing public chains and technologies, requiring no significant development itself, and is more of an open, permissionless technical combination solution belonging to the developer community.\n2. Because MBN is more open and can be compatible with all excellent UTXO public chains in the industry (such as BCH, MVC, etc.), MBN has more advanced capabilities than FB, such as utilizing the EVM layer on BCH and the layer-one UTXO smart contract capabilities on MVC. This gives Bitcoin assets more possibilities and makes full use of all mature ecosystems in the larger Bitcoin ecosystem.\n3. FB is more positioned to expand Bitcoin as digital gold and electronic currency (according to its official website and white paper), and FB's architecture and design are not suitable for large amounts of data on-chain and lack a Web3 construction plan. MBN, from day one, was planned and designed to solve the future massive Web3 applications on Bitcoin. Its goal is clear and straightforward: to use the MetaID protocol and existing large Bitcoin ecosystem facilities to build a secure, user-owned data, high-performance Web3 network on Bitcoin that can meet the daily needs of people worldwide."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "copyright": "MetaBitcoin Network Copyright @2024"
+  },
+  "blockchain": {
+    "title": "MetaBitcoin",
+    "mempool": "mempool",
+    "tx": "TX",
+    "timeWithin": "within 2 minutes",
+    "minutesAgo": "mins ago",
+    "hoursAgo": "h ago",
+    "daysAgo": "days ago",
+    "metablockDetails": "Metablock Details",
+    "blockProgressBar": "Block Progress Bar",
+    "blocks": " Blocks",
+    "tabs": {
+      "all": "All",
+      "consolidation": "Consolidation",
+      "coinjoin": "Coinjoin",
+      "data": "Data"
+    }
+  }
+}
